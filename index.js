@@ -36,4 +36,4 @@ const drewPrimaryTest = () => {
   }
   console.log(tomorrowsWorld.numbers[0][1]); // affiche : 20 
 }; 
-drewPrimaryTest(); 
+drewPrimaryTest(); // call the function drewPrimaryTest 
